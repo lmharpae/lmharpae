@@ -43,7 +43,7 @@ I originally aimed GitHub as one of my social networks just for fun and I will s
 
 ## Why almost all of my repositories are ARCHIVED?
 
-Because of a simple reason: **I can't maintain them anymore**. I haven't use GitHub for over a year for several reasons so I also don't have time to maintain any tools that I posted in this profile.
+Because of a simple reason: **I can't maintain them anymore**. I haven't used GitHub for over a year for several reasons so I also don't have time to maintain any tools that I posted in this profile.
 
 The only repository that I still maintain is [DAWRPC](https://github.com/lmharpae/DAWRPC), because that repository is my most popular one on GitHub.
 
@@ -73,4 +73,4 @@ I will protect you, and you can trust me, like [Harpae in the Pocket Mirror game
 
 I only use Discord right now. My Facebook account was deleted a long time ago.
 
-**Discord:** [ripp3_](https://discord.com/user/693107293516070944)
+**Discord:** [ripp3_](https://discord.com/users/693107293516070944)
