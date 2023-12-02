@@ -45,7 +45,7 @@ I originally aimed GitHub as one of my social networks just for fun and I will s
 
 Because of a simple reason: **I can't maintain them anymore**. I haven't use GitHub for over a year for several reasons so I also don't have time to maintain any tools that I posted in this profile.
 
-The only repository that I still maintain is [DAWRPC](https://github.com/lmharpae/DAWRPC), because that repository is my most popular repository on GitHub.
+The only repository that I still maintain is [DAWRPC](https://github.com/lmharpae/DAWRPC), because that repository is my most popular one on GitHub.
 
 ## Statistics
 
